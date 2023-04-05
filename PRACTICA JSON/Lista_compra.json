@@ -1,0 +1,518 @@
+{
+    "supermercados": [
+      {
+        "nombre": "Mercadona",
+        "direccion":"C. Moraleja de Enmedio, s/n",
+        "geolocalizacion":{
+            "latitud": 40.313144,
+            "longitud": -3.869510
+        },
+
+        "secciones": [
+          {
+            "nombre": "Frutas y Verduras",
+            "productos": [
+              {
+                 "nombre": "Manzanas",
+                 "precio": 2.50,
+                 "unidad_medida": "kilo",
+                 "adquirido": false,
+                 "periodo_vigencia":null,
+                 "unidades":"6",
+                 "oferta":false
+            },
+            {
+                 "nombre": "Bananas",
+                 "precio": 1.99,
+                 "unidad_medida": "kilo",
+                 "adquirido": false,
+                 "periodo_vigencia":null,
+                 "unidades":"4",
+                 "oferta":false
+            },
+            {
+                 "nombre": "Peras",
+                 "precio": 2.60,
+                 "unidad_medida": "kilo",
+                 "adquirido": false,
+                 "periodo_vigencia":null,
+                 "unidades":"5",
+                 "oferta":false
+            },
+            {
+                 "nombre": "Coliflor",
+                 "precio": 3.20,
+                 "unidad_medida": "kilo",
+                 "adquirido": false,
+                 "periodo_vigencia":null,
+                 "unidades":"3",
+                 "oferta":false
+            }
+        ]
+    },
+{
+            "nombre": "Carnicería",
+            "productos": [
+             {
+                 "nombre": "Pechuga pollo",
+                 "precio": 6.99,
+                 "unidad_medida": "kilo",
+                 "adquirido": false,
+                 "periodo_vigencia":"01/04/2023-10/04/2023",
+                 "unidades":"1",
+                 "oferta":false
+             },
+        {
+                 "nombre": "Entrecot",
+                 "precio": 18.99,
+                 "unidad_medida": "kilo",
+                 "adquirido": false,
+                 "periodo_vigencia":"01/04/2023-15/04/2023",
+                 "unidades":"1",
+                 "oferta":true
+             },
+     {
+                 "nombre": "Solomillo",
+                 "precio": 20.00,
+                 "unidad_medida": "kilo",
+                 "adquirido": false,
+                 "periodo_vigencia":"01/04/2023-10/04/2023",
+                 "unidades":"1",
+                 "oferta":false
+             },
+      {
+                 "nombre": "Lomo",
+                 "precio": 5.99,
+                 "unidad_medida": "kilo",
+                 "adquirido": false,
+                 "periodo_vigencia":"01/04/2023-09/04/2023",
+                 "unidades":"1",
+                 "oferta":false
+             }
+         ]
+     },
+{
+"nombre": "Pescadería",
+"productos": [
+{
+  "nombre": "Bacalado",
+  "precio": 7.89,
+  "unidad_medida": "kilo",
+  "adquirido": false,
+  "periodo_vigencia":"01/04/2023-07/04/2023",
+  "unidades":"2",
+  "oferta":false
+},
+{
+    "nombre": "Merluza",
+    "precio": 12.59,
+    "unidad_medida": "kilo",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-08/04/2023",
+    "unidades":"1",
+    "oferta":false
+},
+{
+    "nombre": "Sardinas",
+    "precio": 8.55,
+    "unidad_medida": "kilo",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-11/04/2023",
+    "unidades":"1",
+    "oferta":false
+},
+{
+    "nombre": "Salmón",
+    "precio": 21.00,
+    "unidad_medida": "kilo",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-06/04/2023",
+    "unidades":"1",
+    "oferta":true
+}
+]
+},
+{
+"nombre": "Panadería",
+"productos": [
+{
+  "nombre": "Palmeras",
+  "precio": 3.89,
+  "unidad_medida": "kilo",
+  "adquirido": false,
+  "periodo_vigencia":"01/04/2023-20/04/2023",
+  "unidades":"2",
+  "oferta":false
+},
+{
+    "nombre": "Pan",
+    "precio": 0.99,
+    "unidad_medida": "Barra",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-30/04/2023",
+    "unidades":"2",
+    "oferta":true
+},
+{
+    "nombre": "Magdalenas",
+    "precio": 1.00,
+    "unidad_medida": "kilo",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-30/04/2023",
+    "unidades":"2",
+    "oferta":false
+},
+{
+    "nombre": "Donuts",
+    "precio": 2.00,
+    "unidad_medida": "kilo",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-06/04/2023",
+    "unidades":"4",
+    "oferta":false
+}
+]
+},
+{
+"nombre": "Lácteos",
+"productos": [
+{
+  "nombre": "Leche",
+  "precio": 1.99,
+  "unidad_medida": "Litro",
+  "adquirido": false,
+  "periodo_vigencia":"01/04/2023-30/05/2023",
+  "unidades":"6",
+  "oferta":false
+},
+{
+    "nombre": "Queso fresco batido",
+    "precio": 2.49,
+    "unidad_medida": "Litro",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-20/04/2023",
+    "unidades":"1",
+    "oferta":false
+},
+{
+    "nombre": "Yogurt",
+    "precio": 1.20,
+    "unidad_medida": "gramos",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-1/05/2023",
+    "unidades":"6",
+    "oferta":false
+},
+{
+    "nombre": "Mozarella",
+    "precio": 7.99,
+    "unidad_medida": "kilo",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-30/05/2023",
+    "unidades":"3",
+    "oferta":false
+   }
+  ]
+ },
+{
+"nombre": "Limpieza",
+"productos": [
+{
+  "nombre": "Lejía",
+  "precio": 1.10,
+  "unidad_medida": "Litro",
+  "adquirido": false,
+  "periodo_vigencia":"01/04/2023-01/05/2025",
+  "unidades":"1",
+  "oferta":false
+},
+{
+    "nombre": "Detergente",
+    "precio": 6.49,
+    "unidad_medida": "Litro",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-06/08/2026",
+    "unidades":"2",
+    "oferta":true
+},
+{
+    "nombre": "Fregona",
+    "precio": 1.30,
+    "unidad_medida": "unidad",
+    "adquirido": false,
+    "periodo_vigencia":null,
+    "unidades":"2",
+    "oferta":false
+},
+{
+    "nombre": "Suavizante",
+    "precio": 6.89,
+    "unidad_medida": "Litro",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-15/07/2026",
+    "unidades":"1",
+    "oferta":false
+     }
+   ]
+  }
+ ]
+},    
+{
+  "nombre": "Carrefour",
+  "direccion": "El Soto, Carretera N-V, km. 19",
+  "geolocalizacion": {
+    "latitud": 40.330018, 
+    "longitud": -3.885938
+  },
+  "secciones": [
+     {
+        "nombre": "Frutas y Verduras",
+        "productos": [
+          {
+            "nombre": "Manzanas",
+            "precio": 2.60,
+            "unidad_medida": "kilo",
+            "adquirido": false,
+            "periodo_vigencia":null,
+            "unidades":"6",
+            "oferta":false
+        },
+        {
+            "nombre": "Bananas",
+            "precio": 2.99,
+            "unidad_medida": "kilo",
+            "adquirido": false,
+            "periodo_vigencia":null,
+            "unidades":"4",
+            "oferta":false
+        },
+        {
+            "nombre": "Peras",
+            "precio": 5.60,
+            "unidad_medida": "kilo",
+            "adquirido": false,
+            "periodo_vigencia":null,
+            "unidades":"5",
+            "oferta":true
+        },
+        {
+            "nombre": "Coliflor",
+            "precio": 2.20,
+            "unidad_medida": "kilo",
+            "adquirido": false,
+            "periodo_vigencia":null,
+            "unidades":"3",
+            "oferta":false
+        }
+    ]
+},
+{
+"nombre": "Carnicería",
+"productos": [
+{
+  "nombre": "Pechuga pollo",
+  "precio": 5.99,
+  "unidad_medida": "kilo",
+  "adquirido": false,
+  "periodo_vigencia":"01/04/2023-09/04/2023",
+  "unidades":"1",
+  "oferta":false
+},
+{
+    "nombre": "Entrecot",
+    "precio": 15.99,
+    "unidad_medida": "kilo",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-20/04/2023",
+    "unidades":"1",
+    "oferta":false
+},
+{
+    "nombre": "Solomillo",
+    "precio": 19.99,
+    "unidad_medida": "kilo",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-16/04/2023",
+    "unidades":"1",
+    "oferta":false
+},
+{
+    "nombre": "Lomo",
+    "precio": 4.99,
+    "unidad_medida": "kilo",
+    "adquirido": false,
+    "periodo_vigencia":"01/04/2023-08/04/2023",
+    "unidades":"1",
+    "oferta":true
+}
+]
+},
+{
+"nombre": "Pescadería",
+"productos": [
+{
+"nombre": "Bacalado",
+"precio": 6.69,
+"unidad_medida": "kilo",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-10/04/2023",
+"unidades":"2",
+"oferta":false
+},
+{
+"nombre": "Merluza",
+"precio": 14.89,
+"unidad_medida": "kilo",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-09/04/2023",
+"unidades":"1",
+"oferta":false
+},
+{
+"nombre": "Sardinas",
+"precio": 7.95,
+"unidad_medida": "kilo",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-11/04/2023",
+"unidades":"1",
+"oferta":true
+},
+{
+"nombre": "Salmón",
+"precio": 24.00,
+"unidad_medida": "kilo",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-05/04/2023",
+"unidades":"1",
+"oferta":false
+    }
+  ]
+ },
+{
+"nombre": "Panadería",
+"productos": [
+{
+"nombre": "Palmeras",
+"precio": 2.99,
+"unidad_medida": "kilo",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-25/04/2023",
+"unidades":"2",
+"oferta":false
+},
+{
+"nombre": "Pan",
+"precio": 0.89,
+"unidad_medida": "Barra",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-05/05/2023",
+"unidades":"2",
+"oferta":true
+},
+{
+"nombre": "Magdalenas",
+"precio": 1.10,
+"unidad_medida": "kilo",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-02/05/2023",
+"unidades":"2",
+"oferta":false
+},
+{
+"nombre": "Donuts",
+"precio": 1.99,
+"unidad_medida": "kilo",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-12/04/2023",
+"unidades":"4",
+"oferta":false
+    }
+   ]
+ },
+{
+"nombre": "Lácteos",
+"productos": [
+{
+"nombre": "Leche",
+"precio": 1.89,
+"unidad_medida": "Litro",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-15/06/2023",
+"unidades":"6",
+"oferta":true
+},
+{
+"nombre": "Queso fresco batido",
+"precio": 2.89,
+"unidad_medida": "Litro",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-18/04/2023",
+"unidades":"1",
+"oferta":true
+},
+{
+"nombre": "Yogurt",
+"precio": 1.33,
+"unidad_medida": "gramos",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-1/05/2023",
+"unidades":"6",
+"oferta":false
+},
+{
+"nombre": "Mozarella",
+"precio": 8.59,
+"unidad_medida": "kilo",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-02/06/2023",
+"unidades":"3",
+"oferta":true
+    }
+ ]
+},
+{
+"nombre": "Limpieza",
+"productos": [
+{
+"nombre": "Lejía",
+"precio": 0.99,
+"unidad_medida": "Litro",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-01/06/2026",
+"unidades":"1",
+"oferta":true
+},
+{
+"nombre": "Detergente",
+"precio": 6.99,
+"unidad_medida": "Litro",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-02/08/2026",
+"unidades":"2",
+"oferta":true
+},
+{
+"nombre": "Fregona",
+"precio": 1.00,
+"unidad_medida": "unidad",
+"adquirido": false,
+"periodo_vigencia":null,
+"unidades":"2",
+"oferta":false
+},
+{
+"nombre": "Suavizante",
+"precio": 8.78,
+"unidad_medida": "Litro",
+"adquirido": false,
+"periodo_vigencia":"01/04/2023-30/11/2026",
+"unidades":"1",
+"oferta":true
+        }
+       ]
+      }
+     ]
+   }
+ ]
+}
+     
